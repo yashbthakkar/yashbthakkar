@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yashthakk/](https://www.linkedin.com/in/yashthakk/)
 
-- ⚡ Fun fact **Let's talk about Fantasy Premier League - Analytics, Football/ US Soccer, Flute, Swimming**
+- ⚡ Fun fact **Let's talk about Fantasy Premier League - Analytics, Football/ US Soccer, Flute, Swimming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
