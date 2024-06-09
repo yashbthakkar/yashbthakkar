@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Building Interactive Dashboards.**
 
-- 🌱 I’m currently learning **R, Tableau and ETL best practices.**
+- 🌱 I’m currently learning **R, Tableau, and ETL best practices.**
 
 - 💬 Ask me about **Operations Management, Alexa Automatic Speech Recognition, Natural Language Understanding, Word Error Rate, New-Hires Onboarding, Project Management, People Management, Excel Macros, F1 Non-Immigration VISA process, DS-160.**
 
