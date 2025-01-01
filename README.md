@@ -1,5 +1,5 @@
 ![logo](https://github.com/yashbthakkar/yashbthakkar/blob/main/Github%20Banner.png)
-<h1 align="center">🤝 Hello Welcome to Yash Thakkar's Github! 🤝</h1>
+<h1 align="center">🤝 Hello Welcome to Yash Thakkar's Github!! 🤝</h1>
 <h3 align="center">Currently Pursuing an MS in Business Analytics at UT Dallas - Seeking Summer 2025 Internship Opportunities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbthakkar&label=Profile%20views&color=0e75b6&style=flat" alt="yashbthakkar" /> </p>
